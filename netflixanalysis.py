@@ -6,4 +6,6 @@ pio.templates.default = "plotly_white"
 
 netflix_data = pd.read_csv("/content/netflix_content_2023.csv")
 
+
 netflix_data.head()
+
